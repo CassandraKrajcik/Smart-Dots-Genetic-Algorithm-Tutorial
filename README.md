@@ -1,2 +1,3 @@
-# Smart-Dots-Genetic-Algorithm-Tutorial
+!*Smart-Dots-Genetic-Algorithm-Tutorial
 Here is the code for my genetic algorithm tutorial 
+ 
